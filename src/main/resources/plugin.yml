@@ -1,0 +1,11 @@
+name: EvolvingSword
+main: com.example.evolvingsword.EvolvingSwordPlugin
+version: 1.0
+api-version: 1.19
+author: Toi
+
+commands:
+  giveevolvingsword:
+    description: Donne une épée évolutive
+    usage: /<command>
+    permission: evolvingsword.give
